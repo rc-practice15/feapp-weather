@@ -1,0 +1,12 @@
+a {
+    font-size: 4vh;
+    color: white;
+    display: inline-block;
+    border: 1px solid black;
+    background-color: darkslateblue;
+    margin: 10px;
+    padding-bottom: 1vh;
+    width: 30vw;
+    height: 5vh;
+    text-decoration: none;
+}
